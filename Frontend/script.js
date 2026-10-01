@@ -1,5 +1,5 @@
 let count = 0;
-
+let counter=0;
 const countDisplay = document.getElementById("count");
 const incrementButton = document.getElementById("increment");
 const decrementButton = document.getElementById("decrement");
